@@ -1,6 +1,7 @@
 # SatelliteRoadSegmentationPyTorch
 From EPFL Machine Learning Project to segment roads <br>
-[AIcrowd | EPFL ML Road Segmentation](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation)
+[AIcrowd | EPFL ML Road Segmentation](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation) <br>
+Project Official GitHub page - [Project Road Segmentation](https://github.com/epfml/ML_course/tree/master/projects/project2/project_road_segmentation)
 
 ### Steps
 1. Creating custom datasets
