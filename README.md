@@ -1,5 +1,5 @@
 # SatelliteRoadSegmentationPyTorch
-From EPFL Machine Learning Project to segment roads
+From EPFL Machine Learning Project to segment roads <br>
 [AIcrowd | EPFL ML Road Segmentation](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation)
 
 ### Steps
@@ -10,5 +10,5 @@ From EPFL Machine Learning Project to segment roads
 5. Deploying the model
 
 ### Resources
-DATA - [Dataset](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation/dataset_files)
+DATA - [Dataset](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation/dataset_files) <br>
 BOOK - PyTorch Computer Vision Cookbook - Michael Avendi
