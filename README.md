@@ -10,5 +10,5 @@ From EPFL Machine Learning Project to segment roads
 5. Deploying the model
 
 ### Resources
-####DATA - [Dataset](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation/dataset_files)
-####BOOK - PyTorch Computer Vision Cookbook - Michael Avendi
+DATA - [Dataset](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation/dataset_files)
+BOOK - PyTorch Computer Vision Cookbook - Michael Avendi
