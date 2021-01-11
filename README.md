@@ -14,7 +14,7 @@ Project Official GitHub page - [Project Road Segmentation](https://github.com/ep
 5. Deploying the model
 
 ### Sample image, binary mask and mask overlay on the image
-![](https://github.com/Krishna2709/SatelliteRoadSegmentationPyTorch/blob/master/Image1.png?raw=true)
+![Alt](https://github.com/Krishna2709/SatelliteRoadSegmentationPyTorch/blob/master/ImagesAndMasks/Image1.png)
 
 ### Resources
 DATA - [Dataset](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation/dataset_files) <br>
